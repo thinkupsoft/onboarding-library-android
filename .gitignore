@@ -1,0 +1,13 @@
+.DS_Store
+
+.gradle/
+build/
+.idea/
+
+local.properties
+
+pepk.jar
+
+app/dev/res/values/strings.xml
+app/devDebug/res/raw/auth_config_b2c.json
+fastlane/.env

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Onboarding</string>
+    <string name="title_activity_view">ViewActivity</string>
+    <string name="button">Button</string>
+    <string name="hello_view_activity">Hello ViewActivity</string>
+    <string name="compose">ComposeActivity</string>
+    <string name="view">ViewActivity</string>
+</resources>
